@@ -15,6 +15,8 @@ Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pichoemr&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
+![wakatime](https://wakatime.com/share/@f878b28c-c5f2-4b82-af67-e03dbaa30985/22521f0a-19ac-4163-ac26-a4b7ac6cb778.svg)
+
 Feel free to check out my repositories to see some of my work. If you have any questions or want to collaborate, feel free to reach out!
 
 <!--
